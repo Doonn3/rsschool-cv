@@ -13,10 +13,9 @@ Lorem Impsum, Lorem Impsum, Lorem Impsum
 ###### Skills:
 
 * HTML
+
 * CSS
-
 * SCSS
-
 * JS
 * TypeScript
 
